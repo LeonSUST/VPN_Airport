@@ -1,5 +1,9 @@
 # VPN_Airport
 surf network out of wall
+
+video link https://www.youtube.com/watch?v=kcw-vne5njo
+
+
 网址：https://url.cn/5GsGZdV
 其它高机场：https://url.cn/5VBJBFj
 
